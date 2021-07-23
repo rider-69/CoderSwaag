@@ -29,8 +29,8 @@ object DataServices {
 
     val shirts = listOf(
         Product("white denim" , "10$" , "shirt01"),
-        Product("white denim" , "10$" , "shirt01"),
-
-
+        Product(" BLACK task" , "14$" , "shirt01"),
+        Product("  yellow volco" , "12$" , "shirt01"),
+        Product("  brown locnomania","13$" , "shirt01"),
         )
 }
